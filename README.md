@@ -1,3 +1,5 @@
+Hello!
+
 - 👋 Hi, I’m Alessandro :)
 - 👀 I’m interested in Java programming!
 - 🌱 I’m currently studying business informatics.
